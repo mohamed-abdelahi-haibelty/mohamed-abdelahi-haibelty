@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, Django, Django-rest-framework and Postgresql.
 - 💬 Ask me about Javascript, css, python.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed-abdelahi-haibelty)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
