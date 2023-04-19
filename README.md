@@ -1,7 +1,7 @@
  <div style="display: flex; justify-content:center; align-items: center;">
   <h1 align=center>Hi there 👋, I'm Mohamed Abdellahi Haibelty</h1>
  </div>
-- 🔭 I’m currently working on [Multiplayer Memory Game] (https://github.com/mohamed-abdelahi-haibelty/memory_game).<br>
+- 🔭 I’m currently working on [Multiplayer Memory Game](https://github.com/mohamed-abdelahi-haibelty/memory_game).<br>
 - 🌱 I’m currently learning Python, Django, Django-rest-framework and Postgresql.
 - 💬 Ask me about Javascript, css, python.
 
