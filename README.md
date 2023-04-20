@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning Python, Django, Django-rest-framework, Postgresql and React.js .<br>
 - 💬 Ask me about Javascript, css, python.<br><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed-abdelahi-haibelty&show_icons=true&bg_color=010B0F&text_color=6EEA92&border_color=010B0F)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-abdelahi-haibelty&show_icons=true&locale=en&bg_color=010B0F&text_color=6EEA92&border_color=010B0F" alt="mohamed-abdelahi-haibelty" /></p>
 
 
 <!--
