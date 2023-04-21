@@ -1,6 +1,7 @@
  <div style="display: flex; justify-content:center; align-items: center;">
   <h1 align=center>Hi there 👋, I'm Mohamed Abdellahi Haibelty</h1>
  </div>
+ <h4 align=center>Junior software developer | passionate about diving deeper into the world of React.</h4>
 - 🔭 I’m currently working on <a href="https://github.com/mohamed-abdelahi-haibelty/memory_game">Multiplayer Memory Game</a>.<br>
 - 🌱 I’m currently learning Python, Django, Django-rest-framework, Postgresql and React.js .<br>
 - 💬 Ask me about Javascript, css, python.<br><br>
