@@ -3,8 +3,8 @@
  </div>
  <h4 align=center>Junior software developer | passionate about diving deeper into the world of React.</h4>
 - 🔭 I’m currently working on <a href="https://github.com/mohamed-abdelahi-haibelty/memory_game">Multiplayer Memory Game</a>.<br>
-- 🌱 I’m currently learning Python, Django, Django-rest-framework, Postgresql and React.js .<br>
-- 💬 Ask me about Javascript, css, python.<br><br>
+- 🌱 I’m currently learning <b>Python</b>, <b>Django</b>, <b>Django-rest-framework</b>, <b>Postgresql</b> and <b>React.js</b> .<br>
+- 💬 Ask me about <b>Javascript</b>, <b>css</b>, <b>Python</b>.<br><br>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-abdelahi-haibelty&show_icons=true&locale=en&bg_color=010B0F&text_color=6EEA92&border_color=010B0F" alt="mohamed-abdelahi-haibelty" /></p>
