@@ -4,10 +4,7 @@
  <h4 align=center>Junior software developer | passionate about diving deeper into the world of React.</h4>
 - 🔭 I’m currently working on <a href="https://github.com/mohamed-abdelahi-haibelty/memory_game">Multiplayer Memory Game</a>.<br>
 - 🌱 I’m currently learning <b>Python</b>, <b>Django</b>, <b>Django-rest-framework</b>, <b>Postgresql</b> and <b>React.js</b> .<br>
-- 💬 Ask me about <b>Javascript</b>, <b>css</b>, <b>Python</b>.<br><br>
-
-
-
+- 💬 Ask me about <b>Javascript</b>, <b>css</b>, <b>Python</b>.<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-abdellahi-haibelti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-abdellahi-haibelti" height="30" width="40" /></a>
