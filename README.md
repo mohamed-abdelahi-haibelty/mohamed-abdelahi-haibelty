@@ -2,7 +2,7 @@
   <h1 align=center>Hi there 👋, I'm Mohamed Abdellahi Haibelty</h1>
  </div>
  <h4 align=center>Junior software developer | passionate about diving deeper into the world of React.</h4>
-- 🔭 I’m currently working on <a href="https://github.com/mohamed-abdelahi-haibelty/memory_game">Multiplayer Memory Game</a>.<br>
+- 🔭 I’m currently working on <a href="https://github.com/mohamed-abdelahi-haibelty/dictionary_web_app">Dictionary_web_app</a>.<br>
 - 🌱 I’m currently learning <b>Python</b>, <b>Django</b>, <b>Django-rest-framework</b>, <b>Postgresql</b> and <b>React.js</b> .<br>
 - 💬 Ask me about <b>Javascript</b>, <b>css</b>, <b>Python</b>.<br>
 <h3 align="left">Connect with me:</h3>
